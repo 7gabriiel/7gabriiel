@@ -20,8 +20,8 @@
     <h3 align="center">Estatística do Github</h3>
     <div align="center">
         <a href='https://github.com/7gabriiel'>
-            <img height="120em"
-                src='https://github-readme-stats.vercel.app/api?username=7gabriiel&show_icons=true&theme=tokyonightinclude_all_commits=true&count_private=true' />
+         <img height="120em"
+           src='https://github-readme-stats.vercel.app/api?username=7gabriiel&show_icons=true&theme=tokyonightinclude_all_commits=true&count_private=true'/>
             <img height="120em"
                 src='https://github-readme-stats.vercel.app/api/top-langs/?username=7gabriiel&layout=compact&langs_count=7&theme=tokyonight' />
     </div>
