@@ -32,5 +32,5 @@ target="_blank"
 
 <h3 align="center">GitHub stats</h3>
 <div align="center">
-  <img height="120em" src='https://github-readme-stats.vercel.app/api?username=jotaviobueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%27/%3E
+  <img height="120em" src='https://github-readme-stats.vercel.app/api?
 </div>
