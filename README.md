@@ -1,16 +1,36 @@
-### Hi there 👋
+<h3 align="center">Hi, I'm Otavio... always learning something new!</h2>
 
-<!--
-**7gabriiel/7gabriiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Langs</h4>
+<p align="center">
+  <a href='https://skillicons.dev/%27%3E
+    <img src='https://skillicons.dev/icons?i=js,mysql,mongo,ts,nodejs,html,css%27/%3E
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev/%22%3E
+    <img src='https://skillicons.dev/icons?i=vscode,git,github%27/%3E
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">Contacts</h4>
+
+<p align="center">
+  a
+href='https://instagram.com/j.otaviobueno'
+target="_blank"
+<img src='https://skillicons.dev/icons?i=instagram'
+  </a>
+<!-- Divide the space -->
+  a
+href='https://www.linkedin.com/in/otavio-bueno/'
+target="_blank"
+<img src='https://skillicons.dev/icons?i=linkedin'
+  </a>
+</p>
+
+<h3 align="center">GitHub stats</h3>
+<div align="center">
+  <img height="120em" src='https://github-readme-stats.vercel.app/api?username=jotaviobueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%27/%3E
+</div>
