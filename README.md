@@ -1,36 +1,33 @@
-<h4 align="center">Langs</h4>
-<p align="center">
-  <a href='https://skillicons.dev/%27%3E
-    <img src='https://skillicons.dev/icons?i=js,mysql,mongo,ts,nodejs,html,css%27/%3E
-  </a>
-</p>
+<h3 align="center">Hi, I'm Gabriel... always learning something new!</h2>
 
-<h4 align="center">Tools</h4>
-<p align="center">
-  <a href="https://skillicons.dev/%22%3E
-    <img src='https://skillicons.dev/icons?i=vscode,git,github%27/%3E
-  </a>
-</p>
+    <h4 align="center">Langs</h4>
+    <p align="center">
+        <a href='https://skillicons.dev'>
+            <img src='https://skillicons.dev/icons?i=js,nodejs,html,css,python' />
+        </a>
+    </p>
 
-<h4 align="center">Contacts</h4>
+    <h4 align="center">Tools</h4>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img src='https://skillicons.dev/icons?i=vscode,git,github' />
+        </a>
+    </p>
 
-<p align="center">
-  a
-href='https://instagram.com/j.otaviobueno'
-target="_blank"
-<img src='https://skillicons.dev/icons?i=instagram'
-  </a>
-<!-- Divide the space -->
-  a
-href='https://www.linkedin.com/in/otavio-bueno/'
-target="_blank"
-<img src='https://skillicons.dev/icons?i=linkedin'
-  </a>
-</p>
+    <h4 align="center">Contacts</h4>
 
-<h3 align="center">GitHub stats</h3>
-<div align="center">
-  <a href='https://github.com/jotaviobueno%27%3E
-  <img height="120em" src='https://github-readme-stats.vercel.app/api?username=jotaviobueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%27/%3E
-  <img height="120em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jotaviobueno&layout=compact&langs_count=7&theme=tokyonight%27/%3E
-</div>
+    <p align="center">
+        <a href='https://www.instagram.com/7.gabriiel/' target="_blank">
+            <img src='https://skillicons.dev/icons?i=instagram' />
+     
+        <!-- Divide the space -->
+    </p>
+
+    <h3 align="center">GitHub stats</h3>
+    <div align="center">
+        <a href='https://github.com/7gabriiel'>
+            <img height="120em"
+                src='https://github-readme-stats.vercel.app/api?username=7gabriiel&show_icons=true&theme=tokyonightinclude_all_commits=true&count_private=true' />
+            <img height="120em"
+                src='https://github-readme-stats.vercel.app/api/top-langs/?username=7gabriiel&layout=compact&langs_count=7&theme=tokyonight' />
+    </div>
